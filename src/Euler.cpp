@@ -1068,6 +1068,11 @@ int euler_28(int size)
 	return sum;
 }
 
+int euler_29(void)
+{
+	return 0;
+}
+
 int main() {
 
 //	cout << euler_28(1001) << endl;
