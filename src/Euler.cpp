@@ -1070,13 +1070,7 @@ int euler_28(int size)
 
 int euler_29(void)
 {
-	//second test
-	//third test, commit to local new branch
-	///jfakljafljafklj
-	//forth..
-	//fifth
-	//sixth
-	//seventhdddddd
+
 	return 0;
 }
 
