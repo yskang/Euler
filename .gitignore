@@ -1,0 +1,7 @@
+*.[oa]
+*~
+~*
+Debug/
+.cproject
+.project
+.settings/
